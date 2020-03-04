@@ -29,7 +29,7 @@ quit;
 ```
 
 ```
-mysql -u debian-sys-maint -p
+mysql -u root -p
 ```
 
 
